@@ -1,3 +1,5 @@
+![Screenshot (711)](https://github.com/Kashif581/SNAKE-GAME/assets/114382367/b36e2293-07cd-482b-883e-911cbc36a2b8)
+![Screenshot (710)](https://github.com/Kashif581/SNAKE-GAME/assets/114382367/cdee6dd5-8d3f-44b8-b485-aa7ecd70fd1a)
 Key Highlights:
 
 Developed a classic Snake Game using Python and Turtle graphics, focusing on smooth gameplay and user-friendly design.
